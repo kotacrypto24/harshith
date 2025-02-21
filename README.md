@@ -266,7 +266,7 @@ function scrollToSection(sectionId) {
     </script>
 
 </body>
-</html>
+
 <section id="projects">
     <h1>Projects</h1>
     <div class="projects-container">
@@ -676,3 +676,10 @@ function scrollToSection(sectionId) {
 
 
 </style>
+</html>
+
+
+
+
+
+
